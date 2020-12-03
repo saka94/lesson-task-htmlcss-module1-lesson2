@@ -13,14 +13,23 @@ nav a:hover {
 footer {
   background-color: black;
   color: #ffffff;
+  text-align: center;
 }
 .active {
   background-color: red;
   color: #ffffff;
+  border: red;
+  border-radius: 6px;
 }
 .sale {
   background-color: green;
   color: #ffffff;
   border: green;
   border-radius: 6px;
+}
+#reviews {
+  background-color: grey;
+}
+#guitarlist {
+  background-color: lightgray;
 }
