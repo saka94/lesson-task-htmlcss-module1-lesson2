@@ -1,0 +1,26 @@
+nav {
+  background-color: black;
+}
+ul {
+  color: #ffffff;
+}
+nav a {
+  color: #ffffff;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+footer {
+  background-color: black;
+  color: #ffffff;
+}
+.active {
+  background-color: red;
+  color: #ffffff;
+}
+.sale {
+  background-color: green;
+  color: #ffffff;
+  border: green;
+  border-radius: 6px;
+}
